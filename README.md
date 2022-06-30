@@ -43,11 +43,8 @@ Easy Ensemble AdaBoost Classifier:
 <img width="829" alt="Screen Shot 2022-06-29 at 10 21 01 PM" src="https://user-images.githubusercontent.com/95602006/176585804-cc30b76c-efef-4301-8b19-7176cbcbbbb1.png">
 
 
-
-
-
 ## Summary
 > Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-*
-*
-*
+* Based on the models performance metrics above, there isn't a single model that I would recommend a business to use due to the low scores. 
+* The best model that performed was the Easy Ensemble AdaBoost Classifier with a balanced accuracy score of 92.5% and the high precision score of 7% and high sensitivity score of 91%.
+
